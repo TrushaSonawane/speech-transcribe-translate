@@ -1,6 +1,6 @@
 🎙️ Speech-Transcribe-Translate
 
-Offline-first Speech → Transcription → Translation System
+Speech → Transcription → Translation System
 Built with Python, Vosk, Argos Translate, and Deep Translator
 
 🧠 Overview
